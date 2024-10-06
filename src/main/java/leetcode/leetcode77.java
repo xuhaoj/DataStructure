@@ -25,10 +25,11 @@ public class leetcode77 {
      * @param args
      */
 
-    //一维数组path路径
-    private static List<Integer> path = new ArrayList<>();
     //二维数组result
     private static List<List<Integer>> result = new ArrayList<>();
+
+    //一维数组path路径
+    private static List<Integer> path = new ArrayList<>();
 
 
     public static void main(String[] args) {
